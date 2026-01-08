@@ -21,7 +21,7 @@ if (isset($_SESSION['username'])) {
         content="Temukan pengalaman tak terlupakan dari Sabang sampai Merauke bersama kami."
     />
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link rel="icon" href="img/logo.webp"/>
+    <link rel="icon" href="img/logo.png"/>
     <link 
         rel="stylesheet"  
         href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
