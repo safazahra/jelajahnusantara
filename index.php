@@ -337,7 +337,7 @@ include "koneksi.php";
         <a href="https://wa.me/+6285875644600"><i class="bi bi-whatsapp h2 p-2 text-dark"></i></a>
       </div>
      <div><p>Safana Zahra &copy; 2025</p></div>
-    </footer>
+    </footer>/
     <!-- FOOTER END -->
     <!-- footer begin -->
     <footer class="text-center p-5">
