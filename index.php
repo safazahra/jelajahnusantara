@@ -34,7 +34,6 @@ include "koneksi.php";
         border-bottom-right-radius: 10px;
         overflow: hidden;
       }
-
       .card-img-top {
         height: 220px;
         width: 100%;
