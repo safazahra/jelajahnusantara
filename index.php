@@ -145,7 +145,7 @@ include "koneksi.php";
     </section>
     <!-- article end -->
     <!-- gallery begin -->
-    <section id="gallery" class="text-center p-5">
+    <section id="gallery" class="text-center p-5 p-5 bg-primary-subtle">
         <div class="container">
           <h1 class="fw-bold display-4 pb-3">gallery</h1>
             <div class="row row-cols-1 row-cols-md-3 g-4 justify-content-center">
