@@ -7,7 +7,7 @@
     </div>
     <div class="col-md-6">
         <div class="input-group">
-            <input type="text" id="search" class="form-control" placeholder="Ketikkan minimal 3 karakter untuk pencarian...">
+            <input type="text" id="search" class="form-control" placeholder="Cari Gallery...">
             <span class="input-group-text">
                 <i class="bi bi-search"></i>
             </span>
@@ -21,8 +21,9 @@
                 <thead class="table-dark">
                     <tr>
                         <th>No</th>
-                        <th class="w-25">Judul</th>
+                        <th class="w-25">Deskripsi</th>
                         <th class="w-25">Gambar</th>
+                        <th class="w-25">Aksi</th>
                     </tr>
                 </thead>
                 <tbody id="result">
