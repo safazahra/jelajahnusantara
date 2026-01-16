@@ -63,7 +63,13 @@ if (!isset($_SESSION['username'])) {
                     <?= $_SESSION['username']?>
                 </a>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" href="logout.php">Logout</a></li> 
+            <li>
+                <a class="dropdown-item" href="admin.php?page=profile">Profile</a>
+            </li>
+            <li><hr class="dropdown-divider"></li>
+            <li>
+                <a class="dropdown-item" href="logout.php">Logout</a>
+            </li>
                 </ul>
             </li> 
         </ul>
@@ -87,7 +93,7 @@ if (!isset($_SESSION['username'])) {
         </div> 
     </section>
     <!-- content end -->
-     		<!-- footer begin -->
+    <!-- footer begin -->
     <footer class="text-center p-3 bg-danger-subtle">
 			<div>
 				<a href="https://www.instagram.com/safazraa"><i class="bi bi-instagram h2 p-2 text-dark"></i></a>
