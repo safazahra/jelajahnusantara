@@ -16,7 +16,11 @@ if (!isset($_SESSION['username'])) {
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Zona Jelajah Nusantara | Admin</title>
+<<<<<<< HEAD
     <link rel="icon" href="img/logo.png"/>
+=======
+    <link rel="icon" href="img/logo.png" />
+>>>>>>> 3641278e444551c379ee3dcb0b4178968269d2da
     <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css" />
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">

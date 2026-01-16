@@ -34,7 +34,6 @@ include "koneksi.php";
         border-bottom-right-radius: 10px;
         overflow: hidden;
       }
-
       .card-img-top {
         height: 220px;
         width: 100%;
@@ -337,7 +336,11 @@ include "koneksi.php";
         <a href="https://wa.me/+6285875644600"><i class="bi bi-whatsapp h2 p-2 text-dark"></i></a>
       </div>
      <div><p>Safana Zahra &copy; 2025</p></div>
+<<<<<<< HEAD
     </footer>
+=======
+    </footer>/
+>>>>>>> 3641278e444551c379ee3dcb0b4178968269d2da
     <!-- FOOTER END -->
     <!-- footer begin -->
     <footer class="text-center p-5">
