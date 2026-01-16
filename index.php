@@ -8,7 +8,7 @@ include "koneksi.php";
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Zona Jelajah Nusantara</title>
-    <link rel="icon" href="logo.png"/>
+    <link rel="icon" href="img/logo.png"/>
     <link 
         rel="stylesheet"  
         href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css"
@@ -337,7 +337,7 @@ include "koneksi.php";
         <a href="https://wa.me/+6285875644600"><i class="bi bi-whatsapp h2 p-2 text-dark"></i></a>
       </div>
      <div><p>Safana Zahra &copy; 2025</p></div>
-    </footer>\
+    </footer>
     <!-- FOOTER END -->
     <!-- footer begin -->
     <footer class="text-center p-5">
